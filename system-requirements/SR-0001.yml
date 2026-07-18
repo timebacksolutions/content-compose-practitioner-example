@@ -1,0 +1,17 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: Open with the outcome and when the procedure applies
+text: 'The note opens by stating what a correctly worked case looks like and when this
+  procedure applies, so the officer starts from the task rather than background.'
+links:
+- target: UR-0001
+  type: implements
+- target: "plain:SR-0004"
+  type: satisfies
+- target: "purpose:SR-0001"
+  type: satisfies
+- target: "purpose:SR-0002"
+  type: satisfies
+- target: "audience:SR-0007"
+  type: satisfies

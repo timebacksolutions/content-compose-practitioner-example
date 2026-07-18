@@ -1,0 +1,14 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: Use everyday housing-management terms without defining them, but explain deeper legal terms
+text: 'The note uses the officer''s everyday working vocabulary — arrears, ledger, notice
+  — without defining it, but explains deeper statutory or legal terms in plainer working
+  language the first time they appear.'
+links:
+- target: UR-0001
+  type: implements
+- target: "audience:SR-0003"
+  type: satisfies
+- target: "audience:SR-0004"
+  type: satisfies

@@ -1,0 +1,15 @@
+uid: INT-0001
+type: intent
+status: approved
+title: A housing officer can work a rent-arrears case from the procedure note
+text: 'The council publishes an internal procedure note telling a housing officer how to
+  work a rent-arrears case from first contact to a correctly updated account. The
+  officer must be able to follow it in order, the note must follow the council''s
+  British-English house style, it must read in the council''s neutral internal register,
+  it must do its job of instructing the officer, and it must be pitched at a
+  practitioner who knows the housing-management workflow but not the deep legal theory.
+  Being readable, being correctly styled, being in the right register, serving the right
+  purpose and being pitched at the right reader are independent goals, so the note
+  adopts a readability standard, a conventions standard, a tone standard, a purpose
+  standard and an audience standard.'
+normative: false

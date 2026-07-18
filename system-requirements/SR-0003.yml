@@ -1,0 +1,15 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: Set out the steps in order as a numbered list, one action each
+text: 'The note gives the steps to work the case in the exact order to perform them, as
+  a numbered list with a single action per step.'
+links:
+- target: UR-0001
+  type: implements
+- target: "plain:SR-0026"
+  type: satisfies
+- target: "purpose:SR-0005"
+  type: satisfies
+- target: "purpose:SR-0006"
+  type: satisfies

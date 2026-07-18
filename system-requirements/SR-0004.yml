@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: State the condition before the action when the case can branch
+text: 'Where the case can go two ways — for example whether the tenant responds to first
+  contact — the note states the condition before the action that depends on it.'
+links:
+- target: UR-0001
+  type: implements
+- target: "purpose:SR-0007"
+  type: satisfies

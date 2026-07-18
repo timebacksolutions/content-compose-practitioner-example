@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: List what the officer needs before starting
+text: 'The note lists what the officer must have to hand before starting — the rent
+  account ledger, the tenancy record and any prior contact notes.'
+links:
+- target: UR-0001
+  type: implements
+- target: "purpose:SR-0003"
+  type: satisfies

@@ -1,0 +1,13 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: Write the note in the council's neutral internal register
+text: 'The note uses natural contractions and gives its steps as plain imperatives, so it
+  reads in the council''s neutral internal register — neither stiffly formal nor casual.'
+links:
+- target: UR-0001
+  type: implements
+- target: "tone:SR-0001"
+  type: satisfies
+- target: "tone:SR-0007"
+  type: satisfies
