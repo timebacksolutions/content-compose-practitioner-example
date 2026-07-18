@@ -49,6 +49,21 @@ imported under its own namespace (`plain:SR-0026`, `conventions:SR-0008`, `tone:
 `purpose:SR-0005`, `audience:SR-0003`) — the same way a security project composes
 `asvs` + `gds` + `wcag`.
 
+## The authored note
+
+The requirements graph is the *spec*; the note it governs is
+[`content/rent-arrears-procedure-note.md`](content/rent-arrears-procedure-note.md).
+throughline does not lint prose, so the artifact is a plain file — but read it against
+the graph and each composed axis bites: the neutral internal register (natural
+contractions — "you've", "doesn't" — and plain imperatives), the practitioner
+calibration that uses *arrears*, *ledger* and *notice* undefined yet explains the deeper
+legal term *Notice of Seeking Possession* in plainer words, the numbered one-action
+steps, the condition-before-action branch on whether the tenant responds, and the
+finish-the-case verification and what-to-do-if-blocked recovery. Set this note beside the
+[tenant help page](https://github.com/timebacksolutions/content-compose-example) and you
+can see the two sibling swaps — formal→neutral register, general→practitioner audience —
+in the prose itself.
+
 ## How it's wired
 
 - The project's own graph lives under `intents/`, `user-requirements/` and
