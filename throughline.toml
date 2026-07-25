@@ -39,27 +39,27 @@ format_version = 2
 # to a newer edition of a source is a one-line `ref` change here.
 [[sources]]
 namespace = "plain"
-url = "https://github.com/timebacksolutions/throughline-plain-language"
+url = "https://github.com/rhodium-org/throughline-plain-language"
 ref = "v2026-07"
 
 [[sources]]
 namespace = "conventions"
-url = "https://github.com/timebacksolutions/throughline-conventions-uk"
+url = "https://github.com/rhodium-org/throughline-conventions-uk"
 ref = "v2026-07"
 
 [[sources]]
 namespace = "tone"
-url = "https://github.com/timebacksolutions/throughline-tone-neutral"
+url = "https://github.com/rhodium-org/throughline-tone-neutral"
 ref = "v2026-07"
 
 [[sources]]
 namespace = "purpose"
-url = "https://github.com/timebacksolutions/throughline-purpose-instruct"
+url = "https://github.com/rhodium-org/throughline-purpose-instruct"
 ref = "v2026-07"
 
 [[sources]]
 namespace = "audience"
-url = "https://github.com/timebacksolutions/throughline-audience-practitioner"
+url = "https://github.com/rhodium-org/throughline-audience-practitioner"
 ref = "v2026-07"
 
 [grounding]
