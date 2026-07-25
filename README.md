@@ -1,7 +1,7 @@
 # content-compose-practitioner-example
 
 A second worked example of a **composed content project** built with
-[throughline-compose](https://github.com/timebacksolutions/throughline-compose) — the
+[throughline-compose](https://github.com/rhodium-org/throughline-compose) — the
 **practitioner-and-neutral** counterpart to
 [content-compose-example](https://github.com/timebacksolutions/content-compose-example),
 which is general-and-formal.
@@ -18,11 +18,11 @@ requirements they satisfy:
 
 | Namespace | Source | Axis |
 |---|---|---|
-| `plain` | [throughline-plain-language](https://github.com/timebacksolutions/throughline-plain-language) `@v2026-07` | readability |
-| `conventions` | [throughline-conventions-uk](https://github.com/timebacksolutions/throughline-conventions-uk) `@v2026-07` | British-English conventions |
-| `tone` | [throughline-tone-neutral](https://github.com/timebacksolutions/throughline-tone-neutral) `@v2026-07` | register (neutral) |
-| `purpose` | [throughline-purpose-instruct](https://github.com/timebacksolutions/throughline-purpose-instruct) `@v2026-07` | purpose (instruct) |
-| `audience` | [throughline-audience-practitioner](https://github.com/timebacksolutions/throughline-audience-practitioner) `@v2026-07` | audience (practitioner) |
+| `plain` | [throughline-plain-language](https://github.com/rhodium-org/throughline-plain-language) `@v2026-07` | readability |
+| `conventions` | [throughline-conventions-uk](https://github.com/rhodium-org/throughline-conventions-uk) `@v2026-07` | British-English conventions |
+| `tone` | [throughline-tone-neutral](https://github.com/rhodium-org/throughline-tone-neutral) `@v2026-07` | register (neutral) |
+| `purpose` | [throughline-purpose-instruct](https://github.com/rhodium-org/throughline-purpose-instruct) `@v2026-07` | purpose (instruct) |
+| `audience` | [throughline-audience-practitioner](https://github.com/rhodium-org/throughline-audience-practitioner) `@v2026-07` | audience (practitioner) |
 
 ## The sibling-swap payoff
 
